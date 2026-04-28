@@ -1,0 +1,361 @@
+2026-04-22 11:20:40,735 - MAIN1 - INFO - MQTT connected OK
+2026-04-22 11:20:40,736 - MAIN1 - INFO - Program started
+2026-04-22 11:20:40,738 - MAIN1 - INFO - DHT22 initialized OK
+2026-04-22 11:20:40,738 - MAIN1 - INFO - Soil sensor initialized OK
+2026-04-22 11:20:42,375 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_112040.jpg
+2026-04-22 11:20:42,630 - MAIN1 - INFO - Read OK: 23.3C 68.0%
+2026-04-22 11:20:42,630 - MAIN1 - INFO - Soil: Dry
+2026-04-22 11:20:45,257 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260422_112040.jpg
+2026-04-22 11:20:45,257 - MAIN1 - INFO - MQTT send OK: Photo:/ShujuTp/Gctp_Element-20260422_112040.jpg,Temp:23.3,Humi:68,Soil:Dry
+2026-04-22 11:20:50,518 - MAIN1 - INFO - Program stopping...
+2026-04-22 11:20:50,518 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-22 11:20:50,519 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-22 11:20:50,519 - MAIN1 - INFO - All resources released
+2026-04-22 11:27:07,564 - MAIN1 - INFO - MQTT connected OK
+2026-04-22 11:27:07,564 - MAIN1 - INFO - Program started
+2026-04-22 11:27:07,566 - MAIN1 - INFO - DHT22 initialized OK
+2026-04-22 11:27:07,567 - MAIN1 - INFO - Soil sensor initialized OK
+2026-04-22 11:27:09,158 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_112707.jpg
+2026-04-22 11:27:09,412 - MAIN1 - INFO - Read OK: 23.3C 68.0%
+2026-04-22 11:27:09,412 - MAIN1 - INFO - Soil: Dry
+2026-04-22 11:27:12,114 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260422_112707.jpg
+2026-04-22 11:27:12,114 - MAIN1 - INFO - MQTT send OK: Photo:/ShujuTp/Gctp_Element-20260422_112707.jpg,Temp:23.3,Humi:68,Soil:Dry
+2026-04-22 11:28:13,786 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_112812.jpg
+2026-04-22 11:28:14,041 - MAIN1 - INFO - Read OK: 23.1C 68.0%
+2026-04-22 11:28:14,041 - MAIN1 - INFO - Soil: Dry
+2026-04-22 11:28:16,708 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260422_112812.jpg
+2026-04-22 11:28:16,709 - MAIN1 - INFO - MQTT send OK: Photo:/ShujuTp/Gctp_Element-20260422_112812.jpg,Temp:23.1,Humi:68,Soil:Dry
+2026-04-22 11:29:01,085 - MAIN1 - INFO - Program stopping...
+2026-04-22 11:29:01,085 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-22 11:29:01,086 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-22 11:29:01,086 - MAIN1 - INFO - All resources released
+2026-04-22 11:29:03,465 - MAIN1 - INFO - MQTT connected OK
+2026-04-22 11:29:03,466 - MAIN1 - INFO - Program started
+2026-04-22 11:29:03,468 - MAIN1 - INFO - DHT22 initialized OK
+2026-04-22 11:29:03,468 - MAIN1 - INFO - Soil sensor initialized OK
+2026-04-22 11:29:05,098 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_112903.jpg
+2026-04-22 11:29:05,353 - MAIN1 - INFO - Read OK: 23.9C 68.0%
+2026-04-22 11:29:05,353 - MAIN1 - INFO - Soil: Wet
+2026-04-22 11:29:07,970 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260422_112903.jpg
+2026-04-22 11:29:07,971 - MAIN1 - INFO - MQTT send OK: Photo:/ShujuTp/Gctp_Element-20260422_112903.jpg,Temp:23.9,Humi:68,Soil:Wet
+2026-04-22 11:29:49,343 - MAIN1 - INFO - Program stopping...
+2026-04-22 11:29:49,344 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-22 11:29:49,344 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-22 11:29:49,344 - MAIN1 - INFO - All resources released
+2026-04-22 11:29:52,157 - MAIN1 - INFO - MQTT connected OK
+2026-04-22 11:29:52,158 - MAIN1 - INFO - Program started
+2026-04-22 11:29:52,160 - MAIN1 - INFO - DHT22 initialized OK
+2026-04-22 11:29:52,160 - MAIN1 - INFO - Soil sensor initialized OK
+2026-04-22 11:29:53,760 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_112952.jpg
+2026-04-22 11:29:54,015 - MAIN1 - INFO - Read OK: 23.0C 68.0%
+2026-04-22 11:29:54,015 - MAIN1 - INFO - Soil: Wet
+2026-04-22 11:29:56,686 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260422_112952.jpg
+2026-04-22 11:29:56,687 - MAIN1 - INFO - MQTT send OK: Photo:/ShujuTp/Gctp_Element-20260422_112952.jpg,Temp:23.0,Humi:68,Soil:Wet
+2026-04-22 11:30:58,376 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_113056.jpg
+2026-04-22 11:30:58,631 - MAIN1 - INFO - Read OK: 23.0C 67.0%
+2026-04-22 11:30:58,631 - MAIN1 - INFO - Soil: Dry
+2026-04-22 11:31:01,223 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260422_113056.jpg
+2026-04-22 11:31:01,223 - MAIN1 - INFO - MQTT send OK: Photo:/ShujuTp/Gctp_Element-20260422_113056.jpg,Temp:23.0,Humi:67,Soil:Dry
+2026-04-22 11:31:16,998 - MAIN1 - INFO - Program stopping...
+2026-04-22 11:31:16,999 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-22 11:31:16,999 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-22 11:31:17,000 - MAIN1 - INFO - All resources released
+2026-04-22 11:31:20,122 - MAIN1 - INFO - MQTT connected OK
+2026-04-22 11:31:20,123 - MAIN1 - INFO - Program started
+2026-04-22 11:31:20,125 - MAIN1 - INFO - DHT22 initialized OK
+2026-04-22 11:31:20,125 - MAIN1 - INFO - Soil sensor initialized OK
+2026-04-22 11:31:21,747 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_113120.jpg
+2026-04-22 11:31:22,002 - MAIN1 - INFO - Read OK: 23.5C 68.0%
+2026-04-22 11:31:22,002 - MAIN1 - INFO - Soil: Dry
+2026-04-22 11:31:24,727 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260422_113120.jpg
+2026-04-22 11:31:24,728 - MAIN1 - INFO - MQTT send OK: Photo:/ShujuTp/Gctp_Element-20260422_113120.jpg,Temp:23.5,Humi:68,Soil:Dry
+2026-04-22 11:32:25,904 - MAIN1 - INFO - Program stopping...
+2026-04-22 11:32:25,904 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-22 11:32:25,904 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-22 11:32:25,904 - MAIN1 - INFO - All resources released
+2026-04-22 11:32:33,400 - MAIN1 - INFO - MQTT connected OK
+2026-04-22 11:32:33,400 - MAIN1 - INFO - Program started
+2026-04-22 11:32:33,403 - MAIN1 - INFO - DHT22 initialized OK
+2026-04-22 11:32:33,403 - MAIN1 - INFO - Soil sensor initialized OK
+2026-04-22 11:32:35,012 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_113233.jpg
+2026-04-22 11:32:35,267 - MAIN1 - INFO - Read OK: 23.3C 68.0%
+2026-04-22 11:32:35,267 - MAIN1 - INFO - Soil: Wet
+2026-04-22 11:32:37,996 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260422_113233.jpg
+2026-04-22 11:32:37,996 - MAIN1 - INFO - MQTT send OK: Photo:/ShujuTp/Gctp_Element-20260422_113233.jpg,Temp:23.3,Humi:68,Soil:Wet
+2026-04-22 11:33:06,566 - MAIN1 - INFO - Program stopping...
+2026-04-22 11:33:06,566 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-22 11:33:06,567 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-22 11:33:06,567 - MAIN1 - INFO - All resources released
+2026-04-22 11:33:19,671 - MAIN1 - INFO - MQTT connected OK
+2026-04-22 11:33:19,672 - MAIN1 - INFO - Program started
+2026-04-22 11:33:19,674 - MAIN1 - INFO - DHT22 initialized OK
+2026-04-22 11:33:19,674 - MAIN1 - INFO - Soil sensor initialized OK
+2026-04-22 11:33:21,278 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_113319.jpg
+2026-04-22 11:33:21,533 - MAIN1 - INFO - Read OK: 23.6C 68.0%
+2026-04-22 11:33:21,533 - MAIN1 - INFO - Soil: Dry
+2026-04-22 11:33:24,167 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260422_113319.jpg
+2026-04-22 11:33:24,168 - MAIN1 - INFO - MQTT send OK: Photo:/ShujuTp/Gctp_Element-20260422_113319.jpg,Temp:23.6,Humi:68,Soil:Dry
+2026-04-22 15:15:22,309 - MAIN1 - INFO - MQTT connected OK
+2026-04-22 15:15:22,310 - MAIN1 - INFO - Program started
+2026-04-22 15:15:22,332 - MAIN1 - INFO - DHT22 initialized OK
+2026-04-22 15:15:22,332 - MAIN1 - INFO - Soil sensor initialized OK
+2026-04-22 15:15:25,063 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_151522.jpg
+2026-04-22 15:15:25,317 - MAIN1 - INFO - Read OK: 0.4C 0.0%
+2026-04-22 15:15:25,317 - MAIN1 - INFO - Soil: Dry
+2026-04-22 15:15:28,715 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260422_151522.jpg
+2026-04-22 15:15:28,716 - MAIN1 - INFO - MQTT send OK: Photo:/ShujuTp/Gctp_Element-20260422_151522.jpg,Temp:0.4,Humi:0,Soil:Dry
+2026-04-22 15:15:37,770 - MAIN1 - INFO - Program stopping...
+2026-04-22 15:15:37,771 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-22 15:15:37,771 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-22 15:15:37,772 - MAIN1 - INFO - All resources released
+2026-04-22 15:30:33,359 - MAIN1 - INFO - MQTT connected OK
+2026-04-22 15:30:33,359 - MAIN1 - INFO - Program started
+2026-04-22 15:30:33,361 - MAIN1 - INFO - DHT22 initialized OK
+2026-04-22 15:30:33,361 - MAIN1 - INFO - Soil sensor initialized OK
+2026-04-22 15:30:35,094 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_153033.jpg
+2026-04-22 15:30:35,348 - MAIN1 - INFO - Read OK: 23.7C 69.0%
+2026-04-22 15:30:35,348 - MAIN1 - INFO - Soil: Dry
+2026-04-22 15:30:39,602 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260422_153033.jpg
+2026-04-22 15:30:39,603 - MAIN1 - INFO - MQTT send OK: Photo:/ShujuTp/Gctp_Element-20260422_153033.jpg,Temp:23.7,Humi:69,Soil:Dry
+2026-04-22 15:30:59,985 - MAIN1 - INFO - Program stopping...
+2026-04-22 15:30:59,985 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-22 15:30:59,985 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-22 15:30:59,985 - MAIN1 - INFO - All resources released
+2026-04-22 15:49:39,489 - MAIN1 - INFO - MQTT连接成功
+2026-04-22 15:49:39,489 - MAIN1 - INFO - 程序启动
+2026-04-22 15:49:39,491 - MAIN1 - INFO - DHT22初始化完成
+2026-04-22 15:49:39,492 - MAIN1 - INFO - 土壤传感器初始化完成
+2026-04-22 15:49:41,463 - MAIN1 - INFO - 照片已保存: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_154939.jpg
+2026-04-22 15:49:41,718 - MAIN1 - INFO - 读取成功: 23.4℃ 68.0%
+2026-04-22 15:49:41,718 - MAIN1 - INFO - 土壤: 干燥
+2026-04-22 15:49:44,930 - MAIN1 - INFO - 照片已上传: /ShujuTp/Gctp_Element-20260422_154939.jpg
+2026-04-22 15:49:44,930 - MAIN1 - INFO - MQTT发送成功: Photo:/ShujuTp/Gctp_Element-20260422_154939.jpg,Temp:23.4,Humi:68,Soil:干燥
+2026-04-22 15:50:38,818 - MAIN1 - INFO - 程序停止中
+2026-04-22 15:50:38,818 - MAIN1 - INFO - DHT22已清理
+2026-04-22 15:50:38,819 - MAIN1 - INFO - 土壤传感器已清理
+2026-04-22 15:50:38,819 - MAIN1 - INFO - 所有资源已释放
+2026-04-22 15:51:26,821 - MAIN1 - INFO - MQTT连接成功
+2026-04-22 15:51:26,821 - MAIN1 - INFO - 程序启动
+2026-04-22 15:51:26,823 - MAIN1 - INFO - DHT22初始化完成
+2026-04-22 15:51:26,823 - MAIN1 - INFO - 土壤传感器初始化完成
+2026-04-22 15:51:28,584 - MAIN1 - INFO - 照片已保存: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_155126.jpg
+2026-04-22 15:51:28,839 - MAIN1 - INFO - 读取成功: 23.6℃ 67.0%
+2026-04-22 15:51:28,839 - MAIN1 - INFO - 土壤: 干燥
+2026-04-22 15:51:32,228 - MAIN1 - INFO - 照片已上传: /ShujuTp/Gctp_Element-20260422_155126.jpg
+2026-04-22 15:51:32,229 - MAIN1 - INFO - MQTT发送成功: Photo:/ShujuTp/Gctp_Element-20260422_155126.jpg,Temp:23.6,Humi:67,Soil:干燥
+2026-04-22 15:52:33,998 - MAIN1 - INFO - 照片已保存: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260422_155232.jpg
+2026-04-22 15:52:34,253 - MAIN1 - INFO - 读取成功: 23.1℃ 67.0%
+2026-04-22 15:52:34,253 - MAIN1 - INFO - 土壤: 干燥
+2026-04-22 15:52:37,635 - MAIN1 - INFO - 照片已上传: /ShujuTp/Gctp_Element-20260422_155232.jpg
+2026-04-22 15:52:37,636 - MAIN1 - INFO - MQTT发送成功: Photo:/ShujuTp/Gctp_Element-20260422_155232.jpg,Temp:23.1,Humi:67,Soil:干燥
+2026-04-22 15:52:53,396 - MAIN1 - INFO - 程序停止中
+2026-04-22 15:52:53,397 - MAIN1 - INFO - DHT22已清理
+2026-04-22 15:52:53,397 - MAIN1 - INFO - 土壤传感器已清理
+2026-04-22 15:52:53,397 - MAIN1 - INFO - 所有资源已释放
+2026-04-23 14:37:44,037 - MAIN1 - INFO - MQTT connected
+2026-04-23 14:37:44,037 - MAIN1 - INFO - Program started
+2026-04-23 14:37:44,039 - MAIN1 - INFO - DHT22 init success
+2026-04-23 14:37:44,040 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 14:37:45,793 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_143744.jpg
+2026-04-23 14:38:30,169 - MAIN1 - INFO - Stopping...
+2026-04-23 14:38:30,169 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-23 14:38:30,170 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 14:38:30,170 - MAIN1 - INFO - All resources released
+2026-04-23 14:38:35,029 - MAIN1 - INFO - MQTT connected
+2026-04-23 14:38:35,029 - MAIN1 - INFO - Program started
+2026-04-23 14:38:35,031 - MAIN1 - INFO - DHT22 init success
+2026-04-23 14:38:35,032 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 14:38:36,918 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_143835.jpg
+2026-04-23 14:38:38,918 - MAIN1 - WARNING - DHT22 read timeout
+2026-04-23 14:38:38,918 - MAIN1 - INFO - Soil: Wet
+2026-04-23 14:38:42,539 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_143835.jpg
+2026-04-23 14:38:42,540 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_143835.jpg,Temp:None,Humi:None,Soil:Wet
+2026-04-23 14:39:44,313 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_143942.jpg
+2026-04-23 14:39:46,314 - MAIN1 - WARNING - DHT22 read timeout
+2026-04-23 14:39:46,314 - MAIN1 - INFO - Soil: Wet
+2026-04-23 14:39:50,035 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_143942.jpg
+2026-04-23 14:39:50,036 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_143942.jpg,Temp:None,Humi:None,Soil:Wet
+2026-04-23 14:40:51,792 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_144050.jpg
+2026-04-23 14:40:53,792 - MAIN1 - WARNING - DHT22 read timeout
+2026-04-23 14:40:53,792 - MAIN1 - INFO - Soil: Wet
+2026-04-23 14:40:57,507 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_144050.jpg
+2026-04-23 14:40:57,508 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_144050.jpg,Temp:None,Humi:None,Soil:Wet
+2026-04-23 14:41:59,204 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_144157.jpg
+2026-04-23 14:42:01,204 - MAIN1 - WARNING - DHT22 read timeout
+2026-04-23 14:42:01,204 - MAIN1 - INFO - Soil: Wet
+2026-04-23 14:42:04,925 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_144157.jpg
+2026-04-23 14:42:04,925 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_144157.jpg,Temp:None,Humi:None,Soil:Wet
+2026-04-23 14:43:06,682 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_144304.jpg
+2026-04-23 14:43:08,683 - MAIN1 - WARNING - DHT22 read timeout
+2026-04-23 14:43:08,683 - MAIN1 - INFO - Soil: Wet
+2026-04-23 14:43:12,692 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_144304.jpg
+2026-04-23 14:43:12,693 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_144304.jpg,Temp:None,Humi:None,Soil:Wet
+2026-04-23 14:44:14,394 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_144412.jpg
+2026-04-23 14:44:16,394 - MAIN1 - WARNING - DHT22 read timeout
+2026-04-23 14:44:16,395 - MAIN1 - INFO - Soil: Wet
+2026-04-23 14:44:20,834 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_144412.jpg
+2026-04-23 14:44:20,835 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_144412.jpg,Temp:None,Humi:None,Soil:Wet
+2026-04-23 14:45:00,319 - MAIN1 - INFO - Stopping...
+2026-04-23 14:45:00,319 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-23 14:45:00,319 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 14:45:00,319 - MAIN1 - INFO - All resources released
+2026-04-23 19:02:44,552 - MAIN1 - INFO - MQTT connected
+2026-04-23 19:02:44,553 - MAIN1 - INFO - Program started
+2026-04-23 19:02:44,573 - MAIN1 - INFO - DHT22 init success
+2026-04-23 19:02:44,573 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 19:02:47,206 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_190244.jpg
+2026-04-23 19:02:49,206 - MAIN1 - WARNING - DHT22 read timeout
+2026-04-23 19:02:49,207 - MAIN1 - INFO - Soil: Wet
+2026-04-23 19:02:52,811 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_190244.jpg
+2026-04-23 19:02:52,812 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_190244.jpg,Temp:None,Humi:None,Soil:Wet
+2026-04-23 19:03:54,647 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_190352.jpg
+2026-04-23 19:03:56,648 - MAIN1 - WARNING - DHT22 read timeout
+2026-04-23 19:03:56,648 - MAIN1 - INFO - Soil: Wet
+2026-04-23 19:04:02,036 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_190352.jpg
+2026-04-23 19:04:02,037 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_190352.jpg,Temp:None,Humi:None,Soil:Wet
+2026-04-23 19:04:34,985 - MAIN1 - INFO - Stopping...
+2026-04-23 19:04:34,985 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-23 19:04:34,986 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 19:04:34,986 - MAIN1 - INFO - All resources released
+2026-04-23 19:05:19,150 - MAIN1 - INFO - MQTT connected
+2026-04-23 19:05:19,151 - MAIN1 - INFO - Program started
+2026-04-23 19:05:19,153 - MAIN1 - INFO - DHT22 init success
+2026-04-23 19:05:19,153 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 19:05:20,923 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_190519.jpg
+2026-04-23 19:05:22,923 - MAIN1 - WARNING - DHT22 read timeout
+2026-04-23 19:05:22,923 - MAIN1 - INFO - Soil: Wet
+2026-04-23 19:05:30,149 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_190519.jpg
+2026-04-23 19:05:30,149 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_190519.jpg,Temp:None,Humi:None,Soil:Wet
+2026-04-23 19:05:36,179 - MAIN1 - INFO - Stopping...
+2026-04-23 19:05:36,179 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-23 19:05:36,180 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 19:05:36,180 - MAIN1 - INFO - All resources released
+2026-04-23 19:06:25,202 - MAIN1 - INFO - MQTT connected
+2026-04-23 19:06:25,202 - MAIN1 - INFO - Program started
+2026-04-23 19:06:25,204 - MAIN1 - INFO - DHT22 init success
+2026-04-23 19:06:25,205 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 19:06:27,184 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_190625.jpg
+2026-04-23 19:06:27,439 - MAIN1 - INFO - Read success: 24.1 52.0%
+2026-04-23 19:06:27,439 - MAIN1 - INFO - Soil: Wet
+2026-04-23 19:06:31,910 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_190625.jpg
+2026-04-23 19:06:31,910 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_190625.jpg,Temp:24.1,Humi:52,Soil:Wet
+2026-04-23 19:06:56,703 - MAIN1 - INFO - Stopping...
+2026-04-23 19:06:56,703 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-23 19:06:56,704 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 19:06:56,704 - MAIN1 - INFO - All resources released
+2026-04-23 19:07:51,984 - MAIN1 - INFO - MQTT connected
+2026-04-23 19:07:51,985 - MAIN1 - INFO - Program started
+2026-04-23 19:07:51,987 - MAIN1 - INFO - DHT22 init success
+2026-04-23 19:07:51,987 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 19:07:53,759 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_190751.jpg
+2026-04-23 19:07:54,014 - MAIN1 - INFO - Read success: 22.3 64.0%
+2026-04-23 19:07:54,014 - MAIN1 - INFO - Soil: Wet
+2026-04-23 19:08:00,021 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_190751.jpg
+2026-04-23 19:08:00,022 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_190751.jpg,Temp:22.3,Humi:64,Soil:Wet
+2026-04-23 19:09:01,786 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_190900.jpg
+2026-04-23 19:09:02,047 - MAIN1 - INFO - Read success: 22.6 64.0%
+2026-04-23 19:09:02,048 - MAIN1 - INFO - Soil: Wet
+2026-04-23 19:09:03,928 - MAIN1 - INFO - Stopping...
+2026-04-23 19:09:03,929 - MAIN1 - INFO - DHT22 cleaned up
+2026-04-23 19:09:03,929 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 19:09:03,930 - MAIN1 - INFO - All resources released
+2026-04-23 20:34:33,770 - MAIN1 - INFO - MQTT connected
+2026-04-23 20:34:33,771 - MAIN1 - INFO - Program started
+2026-04-23 20:34:33,792 - MAIN1 - INFO - DHT22 init success
+2026-04-23 20:34:33,792 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 20:34:36,372 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_203433.jpg
+2026-04-23 20:34:36,626 - MAIN1 - INFO - Read success: 0.5 0.0%
+2026-04-23 20:34:36,626 - MAIN1 - INFO - Soil: Wet
+2026-04-23 20:34:40,178 - MAIN1 - ERROR - Upload failed: Server connection dropped: 
+2026-04-23 20:34:40,179 - MAIN1 - INFO - MQTT sent: Photo:None,Temp:0.5,Humi:0,Soil:Wet
+2026-04-23 20:34:48,044 - MAIN1 - INFO - Stopping...
+2026-04-23 20:34:48,044 - MAIN1 - INFO - DHT11 cleaned up
+2026-04-23 20:34:48,045 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 20:34:48,045 - MAIN1 - INFO - All resources released
+2026-04-23 21:04:17,411 - MAIN1 - INFO - MQTT connected
+2026-04-23 21:04:17,411 - MAIN1 - INFO - Program started
+2026-04-23 21:04:17,413 - MAIN1 - INFO - DHT22 init success
+2026-04-23 21:04:17,413 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 21:04:19,039 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_210417.jpg
+2026-04-23 21:04:19,293 - MAIN1 - INFO - Read success: 27.1 92.0%
+2026-04-23 21:04:19,294 - MAIN1 - INFO - Soil: Wet
+2026-04-23 21:04:23,175 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_210417.jpg
+2026-04-23 21:04:23,176 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_210417.jpg,Temp:27.1,Humi:92,Soil:Wet
+2026-04-23 21:05:24,702 - MAIN1 - INFO - Stopping...
+2026-04-23 21:05:24,703 - MAIN1 - INFO - DHT11 cleaned up
+2026-04-23 21:05:24,703 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 21:05:24,703 - MAIN1 - INFO - All resources released
+2026-04-23 21:05:27,418 - MAIN1 - INFO - MQTT connected
+2026-04-23 21:05:27,419 - MAIN1 - INFO - Program started
+2026-04-23 21:05:27,421 - MAIN1 - INFO - DHT22 init success
+2026-04-23 21:05:27,421 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 21:05:29,053 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_210527.jpg
+2026-04-23 21:05:29,308 - MAIN1 - INFO - Read success: 22.8 68.0%
+2026-04-23 21:05:29,308 - MAIN1 - INFO - Soil: Wet
+2026-04-23 21:05:33,195 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_210527.jpg
+2026-04-23 21:05:33,196 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_210527.jpg,Temp:22.8,Humi:68,Soil:Wet
+2026-04-23 21:06:19,621 - MAIN1 - INFO - Stopping...
+2026-04-23 21:06:19,622 - MAIN1 - INFO - DHT11 cleaned up
+2026-04-23 21:06:19,622 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 21:06:19,622 - MAIN1 - INFO - All resources released
+2026-04-23 21:07:49,387 - MAIN1 - INFO - MQTT connected
+2026-04-23 21:07:49,387 - MAIN1 - INFO - Program started
+2026-04-23 21:07:49,389 - MAIN1 - INFO - DHT22 init success
+2026-04-23 21:07:49,390 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 21:07:51,023 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_210749.jpg
+2026-04-23 21:07:51,278 - MAIN1 - INFO - Read success: 22.9 68.0%
+2026-04-23 21:07:51,278 - MAIN1 - INFO - Soil: Wet
+2026-04-23 21:07:54,985 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_210749.jpg
+2026-04-23 21:07:54,985 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_210749.jpg,Temp:22.9,Humi:68,Soil:Wet
+2026-04-23 21:10:38,222 - MAIN1 - INFO - Stopping...
+2026-04-23 21:10:38,222 - MAIN1 - INFO - DHT11 cleaned up
+2026-04-23 21:10:38,222 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 21:10:38,223 - MAIN1 - INFO - All resources released
+2026-04-23 21:12:09,090 - MAIN1 - INFO - MQTT connected
+2026-04-23 21:12:09,090 - MAIN1 - INFO - Program started
+2026-04-23 21:12:09,092 - MAIN1 - INFO - DHT22 init success
+2026-04-23 21:12:09,092 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 21:12:10,734 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_211209.jpg
+2026-04-23 21:12:10,988 - MAIN1 - INFO - Read success: 22.8 68.0%
+2026-04-23 21:12:10,989 - MAIN1 - INFO - Soil: Wet
+2026-04-23 21:12:14,884 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_211209.jpg
+2026-04-23 21:12:14,885 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_211209.jpg,Temp:22.8,Humi:68,Soil:Wet
+2026-04-23 21:13:00,121 - MAIN1 - INFO - Stopping...
+2026-04-23 21:13:00,121 - MAIN1 - INFO - DHT11 cleaned up
+2026-04-23 21:13:00,122 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 21:13:00,122 - MAIN1 - INFO - All resources released
+2026-04-23 21:15:00,503 - MAIN1 - INFO - MQTT connected
+2026-04-23 21:15:00,504 - MAIN1 - INFO - Program started
+2026-04-23 21:15:00,506 - MAIN1 - INFO - DHT22 init success
+2026-04-23 21:15:00,506 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 21:15:02,137 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_211500.jpg
+2026-04-23 21:15:02,392 - MAIN1 - INFO - Read success: 22.8 68.0%
+2026-04-23 21:15:02,392 - MAIN1 - INFO - Soil: Wet
+2026-04-23 21:15:06,069 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_211500.jpg
+2026-04-23 21:15:06,069 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_211500.jpg,Temp:22.8,Humi:68,Soil:Wet
+2026-04-23 21:17:34,595 - MAIN1 - INFO - Stopping...
+2026-04-23 21:17:34,596 - MAIN1 - INFO - DHT11 cleaned up
+2026-04-23 21:17:34,596 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 21:17:34,596 - MAIN1 - INFO - All resources released
+2026-04-23 21:17:37,194 - MAIN1 - INFO - MQTT connected
+2026-04-23 21:17:37,194 - MAIN1 - INFO - Program started
+2026-04-23 21:17:37,196 - MAIN1 - INFO - DHT22 init success
+2026-04-23 21:17:37,197 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 21:17:38,831 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_211737.jpg
+2026-04-23 21:17:39,086 - MAIN1 - INFO - Read success: 22.6 68.0%
+2026-04-23 21:17:39,086 - MAIN1 - INFO - Soil: Wet
+2026-04-23 21:17:42,941 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_211737.jpg
+2026-04-23 21:17:42,941 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_211737.jpg,Temp:22.6,Humi:68,Soil:Wet
+2026-04-23 21:19:14,211 - MAIN1 - INFO - Stopping...
+2026-04-23 21:19:14,212 - MAIN1 - INFO - DHT11 cleaned up
+2026-04-23 21:19:14,212 - MAIN1 - INFO - Soil sensor cleaned up
+2026-04-23 21:19:14,212 - MAIN1 - INFO - All resources released
+2026-04-23 21:19:16,885 - MAIN1 - INFO - MQTT connected
+2026-04-23 21:19:16,885 - MAIN1 - INFO - Program started
+2026-04-23 21:19:16,887 - MAIN1 - INFO - DHT22 init success
+2026-04-23 21:19:16,887 - MAIN1 - INFO - Soil sensor init success
+2026-04-23 21:19:18,519 - MAIN1 - INFO - Photo saved: /home/pi/Raspberry_Pi/Local_image/Gctp_Element-20260423_211916.jpg
+2026-04-23 21:19:18,774 - MAIN1 - INFO - Read success: 22.2 68.0%
+2026-04-23 21:19:18,774 - MAIN1 - INFO - Soil: Dry
+2026-04-23 21:19:23,092 - MAIN1 - INFO - Photo uploaded: /ShujuTp/Gctp_Element-20260423_211916.jpg
+2026-04-23 21:19:23,093 - MAIN1 - INFO - MQTT sent: Photo:/ShujuTp/Gctp_Element-20260423_211916.jpg,Temp:22.2,Humi:68,Soil:Dry
